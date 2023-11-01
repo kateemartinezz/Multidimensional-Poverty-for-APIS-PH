@@ -1,4 +1,4 @@
-
+Exploring Multidimensional Poverty
 This repository contains code and data for exploring multidimensional poverty using the Alkire-Foster Method Framework and employing Exploratory Spatial Data Analysis (ESDA) on the 2017 and 2019-2020 Annual Poverty Indicators Survey. The project aims to analyze and visualize poverty indicators, uncover spatial patterns, and provide insights into the multidimensional aspects of poverty for the specified survey years.
 
 ## Table of Contents
@@ -30,7 +30,7 @@ Ensure you have the following dependencies installed:
 
 ## Data Sources
 
-- [[Link to Data Source 1](https://ophi.org.uk/multidimensional-poverty-index/)]()
+- [OPHI](https://ophi.org.uk/multidimensional-poverty-index/)
 - [Link to Data Source 2](#)
 
 Please mention the sources of the data you used for your analysis. This ensures transparency and credit to the data providers.
