@@ -10,7 +10,6 @@ This repository contains code and data for exploring multidimensional poverty us
 - [Usage](#usage)
 - [Data Sources](#data-sources)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
