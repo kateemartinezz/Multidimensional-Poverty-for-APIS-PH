@@ -20,9 +20,10 @@ Multidimensional poverty analysis is crucial for understanding the complex facto
 
 Ensure you have the following dependencies installed:
 
-- Excel
-- Required R libraries
+- Microsoft Excel
+- Required R libraries and R software
 - GeoDa tools (for Spatial Regression)
+- Gretl
 
 ## Usage
 
