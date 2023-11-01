@@ -34,7 +34,7 @@ Ensure you have the following dependencies installed:
 ## Data Sources
 
 - [OXFORD POVERTY AND HUMAN DEVELOPMENT INITIATIVE](https://ophi.org.uk/multidimensional-poverty-index/)
-- [Policy and the ALkire Foster Method](https://ophi.org.uk/policy/alkire-foster-methodology/#:~:text=The%20Alkire%2DFoster%20(AF),measures%20adapted%20to%20specific%20contexts.)
+- [Policy and the Alkire Foster Method](https://ophi.org.uk/policy/alkire-foster-methodology/#:~:text=The%20Alkire%2DFoster%20(AF),measures%20adapted%20to%20specific%20contexts.)
 
 
 
